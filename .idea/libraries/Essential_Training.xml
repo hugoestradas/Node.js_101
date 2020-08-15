@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Essential Training">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Essential Training.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
